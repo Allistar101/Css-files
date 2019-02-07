@@ -1,5 +1,6 @@
-@import "bootstrap.min.css";
-@import "ss-gizmo.css";
+@import url("https://github.com/Allistar101/Css-files/blob/master/bootstrap.min.css"); 
+@import url("https://github.com/Allistar101/Css-files/blob/master/ss-gizmo.css"); 
+
 
 /* Signup/login screens css starts */
 
